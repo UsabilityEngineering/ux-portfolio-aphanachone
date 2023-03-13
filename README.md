@@ -8,8 +8,8 @@ I am a computer science major. This is my first semester at Chico State. In my f
 
 ## UX Team Project
 
-Coming soon.
+Debt Supervisor
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with User Experience](https://github.com/aphanachone/UX-Journal)
